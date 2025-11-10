@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-# Hi, I am Aryan Shrama
+## Hi, I am Aryan Shrama
 # "I'm a Computer Science graduate with a strong interest in backend development. I’ve worked with Python, SQL, C, C++, and C#, and I’m familiar with tools like VS Code, MySQL, MongoDB, Git, and GitHub. I’ve spent time learning data structures, algorithms, and relational database modeling, and I enjoy solving problems and writing modular, clean code. I’m also comfortable with exception handling, creating design documentation, and building systems that are efficient and easy to maintain. I like approaching challenges with a mix of logic, creativity,andsolidbackend principles.
 
 <center><a href="https://github.com/1aryan102002/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=1aryan102002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1aryan102002&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a></center>
