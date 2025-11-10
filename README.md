@@ -1,6 +1,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 ## Hi, I am Aryan Shrama
 ## "I'm a Computer Science graduate with a strong interest in backend development. I’ve worked with Python, SQL, C, C++, and C#, and I’m familiar with tools like VS Code, MySQL, MongoDB, Git, and GitHub. I’ve spent time learning data structures, algorithms, and relational database modeling, and I enjoy solving problems and writing modular, clean code. I’m also comfortable with exception handling, creating design documentation, and building systems that are efficient and easy to maintain. I like approaching challenges with a mix of logic, creativity,andsolidbackend principles.
