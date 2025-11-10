@@ -8,13 +8,36 @@
 <center><a href="https://github.com/1aryan102002/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=1aryan102002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1aryan102002&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a></center>
 
 
-## My Tech Stack :
+## 🧠 My Tech Stack :
 
 <pre>
-  <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png"/><img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374067/scss2.svg" /><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img align="left" alt="JavaScript" width="50px"  src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" /><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" /><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452092/react.svg" /><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" /><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" /><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/C5112AQExUeu0Uwrxdg/article-cover_image-shrink_720_1280/0/1555853756108?e=2147483647&v=beta&t=sBW5SCo3CIoO_-3zactPSZQxhQwI9eCH3VncS0h72Bc" />
+  <!-- Languages -->
+  <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
+  <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+  <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 
+  <!-- Web -->
+  <img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  
+  <!-- Databases -->
+  <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
+  <!-- Tools -->
+  <img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </pre>
+
+<br><br>
+
+🧩 **Tools and Software:** VS Code, Git, GitHub, MySQL, MongoDB, HTML, CSS, Django *(learning)*  
+💻 **Programming Languages:** Python, SQL, C, C++, C#
+
 
 <!-- ## Socials :
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JatinSaini0O7) -->
