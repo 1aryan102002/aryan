@@ -5,7 +5,7 @@
 # Hi, I am Aryan Shrama
 # "I’m a Front-End Developer passionate about building impactful, user-centric applications. I love learning new technologies, contributing to Open Source, and collaborating on innovative solutions. Focused on clean code, performance, and continuous growth.
 
-<center><a href="https://github.com/JatinSainiOO7/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JatinSainiOO7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSainiOO7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a></center>
+<center><a href="https://github.com/1aryan102002/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=1aryan102002&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1aryan102002&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a></center>
 
 
 ## My Tech Stack :
@@ -16,14 +16,14 @@
 
 </pre>
 
-## Socials :
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JatinSaini0O7)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-saini-711055294/)
+<!-- ## Socials :
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JatinSaini0O7) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sharma-b440a1380/)
 
-## Coding Profiles :
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/JatinSainiOO7/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/jatinsaini3k4v)
+<!-- ## Coding Profiles :
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/1aryan102002/) -->
+<!-- [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/jatinsaini3k4v) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JatinSainiOO7&theme=onedark&no-frame=true&column=10&margin-w=5&margin-h=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1aryan102002&theme=onedark&no-frame=true&column=10&margin-w=5&margin-h=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
